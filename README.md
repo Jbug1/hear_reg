@@ -8,15 +8,25 @@ While the focus of this study is not malaria mortality, this worklfow examines a
 were admitted to hospital. The examined features are: 
 
 age
+
 sex
+
 weight
+
 antimal: whether anti-malarial drugs had been administered
+
 levelf: maternal educational attainmanet
+
 levelm: paternal educcational attainment
+
 sca: whether the child is positive for sickle cell
+
 neudef: whether the child was classified as neurodeficient in a previously administered test
+
 race: black african or not
+
 othermed: whether other medicines were administered
+
 outcome: whether the patient died
 
 This project is intended as an exploratory analysis for discussion only and should not be disseminated for any reason
